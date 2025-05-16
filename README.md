@@ -1,7 +1,7 @@
-# Mocking Pipeline
+# RAG Based Type Resolution / Mocking Pipeline
 
 ## Introduction
-The **Mocking Pipeline** facilitates automatic method call interception and serialization in Java, along with corresponding mocking and test generation in Python.
+The **RAG Based Type Resolution** imrpves the accuracy of type mapping between Java and Python types. The **Mocking Pipeline** facilitates automatic method call interception and serialization in Java, along with corresponding mocking and test generation in Python.
 
 ### Components:
 - **src/type_resolution/translate_type.py**: RAG workflow to translate Java types into equivalent Python types.
